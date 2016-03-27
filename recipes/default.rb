@@ -4,6 +4,7 @@
 #
 # Author:: Seth Chisamore (<schisamo@chef.io>)
 # Author:: Bryan W. Berry (<bryan.berry@gmail.com>)
+# Author:: Saidulu Alli
 #
 # Copyright:: 2010-2015, Chef Software, Inc.
 #
